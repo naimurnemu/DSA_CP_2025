@@ -1,0 +1,1 @@
+{"name":"Local: triangle_angle_to_arm","url":"e:\\DSA_BOOK_CP\\chapter-2\\lesson-2.2(data types)\\triangle_angle_to_arm.cpp","tests":[{"id":1737087205422,"input":"5 7 9","output":"33.56 50.70 95.74"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA_BOOK_CP\\chapter-2\\lesson-2.2(data types)\\triangle_angle_to_arm.cpp","group":"local","local":true}

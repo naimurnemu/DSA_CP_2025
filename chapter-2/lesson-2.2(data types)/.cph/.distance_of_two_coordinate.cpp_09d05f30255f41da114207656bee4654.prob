@@ -1,0 +1,1 @@
+{"name":"Local: distance_of_two_coordinate","url":"e:\\DSA_BOOK_CP\\chapter-2\\lesson-2.2(data types)\\distance_of_two_coordinate.cpp","tests":[{"id":1737086649997,"input":"2 3\n5 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA_BOOK_CP\\chapter-2\\lesson-2.2(data types)\\distance_of_two_coordinate.cpp","group":"local","local":true}
