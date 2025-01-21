@@ -1,0 +1,1 @@
+{"name":"Local: Print_small_to_large","url":"e:\\DSA_BOOK_CP\\chapter-2\\lession-2.2(conditions)\\Print_small_to_large.cpp","tests":[{"id":1737475345885,"input":"7 8 9","output":"9 8 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA_BOOK_CP\\chapter-2\\lession-2.2(conditions)\\Print_small_to_large.cpp","group":"local","local":true}
